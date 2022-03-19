@@ -1,1 +1,5 @@
-console.log("Working");
+$(document).ready(function () {
+  $("button").click(function () {
+    $("#test").hide();
+  });
+});
