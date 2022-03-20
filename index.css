@@ -1,3 +1,22 @@
 body {
-  background-color: blanchedalmond;
+  background-color: #dddddd;
+  
+}
+
+.nopadding {
+ 
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.left {
+  background-color: #003d73;
+}
+
+.right {
+  background-color: white;
+}
+
+.left-text {
+  color:white;
 }
