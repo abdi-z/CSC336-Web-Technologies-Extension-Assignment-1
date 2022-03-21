@@ -1,32 +1,10 @@
 body {
   background-color: #dddddd;
-  
 }
-
-.nopadding {
- 
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
-.left {
-  background-color: #003d73;
-}
-
-.right {
-  background-color: white;
-}
-
-.left-text {
-  color:white;
-}
-
 h3 {
-  color:#003d73
+  color: #003d73;
 }
-
-.my-custom-row {
+.custom {
   background-color: #003d73;
   height: 138.2rem;
 }
-
